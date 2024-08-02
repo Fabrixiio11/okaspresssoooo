@@ -124,6 +124,7 @@ body {
 }
 
 .image-gallery img {
+    border-radius: 200px;
     max-width: 100%;
     height: 800px; /* Mantiene la proporción de la imagen */
     display: block;
